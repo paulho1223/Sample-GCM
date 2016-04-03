@@ -1,0 +1,43 @@
+{
+  "project_info": {
+    "project_id": "sample-gcm-23e8d",
+    "project_number": "543220724088",
+    "name": "Sample GCM"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:543220724088:android:8fb8f9c15b21c0f3",
+        "client_id": "android:info.solola.sample_gcm",
+        "client_type": 1,
+        "android_client_info": {
+          "package_name": "info.solola.sample_gcm",
+          "certificate_hash": []
+        }
+      },
+      "oauth_client": [],
+      "api_key": [],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "cloud_messaging_service": {
+          "status": 2,
+          "apns_config": []
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "google_signin_service": {
+          "status": 1
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "client_info": [],
+  "ARTIFACT_VERSION": "1"
+}
